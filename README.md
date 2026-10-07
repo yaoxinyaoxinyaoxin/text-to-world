@@ -32,6 +32,10 @@ The "intelligence" of LLMs is a compressed replica of collective human intellige
 | English | [How-Low-Dimensional-Training-Evolves-High-Dimensional-Intelligence.md](How-Low-Dimensional-Training-Evolves-High-Dimensional-Intelligence.md) |
 | 双语首页 | [yaoxinyaoxinyaoxin.github.io/text-to-world](https://yaoxinyaoxinyaoxin.github.io/text-to-world/) |
 
+### 新评论 / New Essay
+
+[人类对抗 AI，先增加血量和护甲（Pages）](https://yaoxinyaoxinyaoxin.github.io/text-to-world/human-ai-resilience.html) · [Markdown 原稿](human-ai-resilience.md)
+
 ---
 
 ## 文章框架 / Core Framework
